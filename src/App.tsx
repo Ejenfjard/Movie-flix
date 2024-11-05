@@ -1,12 +1,8 @@
-import React from 'react'
+
 
 const App = () => {
   return (
-    <>
-    <div>Hejsan</div>
-    <p>Hur mår du?</p>
-    
-    </>
+    <h1>App</h1>
     
   )
 }
